@@ -1,4 +1,5 @@
 com\cc\be\model\Account.class
+com\cc\be\controller\ArchivoEvaluadorController.class
 com\cc\be\model\NivelEstudios.class
 com\cc\be\dto\EvaluandoRequestDTO.class
 com\cc\be\model\Evaluador.class
@@ -7,12 +8,15 @@ com\cc\be\model\LineaInvestigacion.class
 com\cc\be\repository\AccountRepository.class
 com\cc\be\controller\EvaluadorController.class
 com\cc\be\config\WebConfig.class
+com\cc\be\repository\ArchivoEvaluadorRepository.class
+com\cc\be\config\CloudinaryConfig.class
 com\cc\be\model\PasswordResetToken.class
 com\cc\be\controller\LineaInvestigacionController.class
 com\cc\be\service\AuthService$1.class
 com\cc\be\model\Rol.class
 com\cc\be\dto\AdminRequestDTO.class
 com\cc\be\repository\EvaluandoRepository.class
+com\cc\be\model\ArchivoEvaluador.class
 com\cc\be\dto\EvaluadorRequestDTO.class
 com\cc\be\service\LineaInvestigacionService.class
 com\cc\be\repository\AdminRepository.class

@@ -40,4 +40,8 @@ public class Evaluador {
     )
     @JsonManagedReference
     private List<LineaInvestigacion> lineasInvestigacionEvaluador = new ArrayList<>();
+
+    @OneToOne(mappedBy = "evaluador", cascade = CascadeType.ALL, fetch = FetchType.LAZY, optional = true)
+    @JsonManagedReference
+    private ArchivoEvaluador archivoEvaluador;
 }
