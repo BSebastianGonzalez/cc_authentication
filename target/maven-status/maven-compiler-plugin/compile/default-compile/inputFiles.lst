@@ -1,7 +1,9 @@
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\CcBeApplication.java
+C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\config\CloudinaryConfig.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\config\Encoder.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\config\WebConfig.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\controller\AdminController.java
+C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\controller\ArchivoEvaluadorController.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\controller\AuthController.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\controller\EvaluadorController.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\controller\EvaluandoController.java
@@ -15,6 +17,7 @@ C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyec
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\dto\ResetPasswordRequest.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\model\Account.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\model\Admin.java
+C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\model\ArchivoEvaluador.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\model\Evaluador.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\model\Evaluando.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\model\LineaInvestigacion.java
@@ -24,6 +27,7 @@ C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyec
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\model\Rol.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\repository\AccountRepository.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\repository\AdminRepository.java
+C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\repository\ArchivoEvaluadorRepository.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\repository\EvaluadorRepository.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\repository\EvaluandoRepository.java
 C:\Users\SEBASTIAN\OneDrive\Escritorio\Universidad\8. Octavo semestre\API\Proyecto\cc-be\src\main\java\com\cc\be\repository\LineaInvestigacionRepository.java
